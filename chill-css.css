@@ -1,26 +1,26 @@
-.trash-upl{
+.loading-upl{
 	display: flex;
 	flex-direction: row;
 	align-items: center;
 }
-.key-pdf-upl{
+.key-upl{
 	display: none;
 	width: 100%;
 	justify-content: center;
 }
-.wave-container{
+.wave-container-upl{
 	position: relative;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
-#wave{
+#wave-upl{
 	margin-left: 6px;
 	margin-top: 8px;
 	text-align: center;
 	width: 40px;
 }
-.dot{
+.dot-upl{
 	display: inline-block;
 	width: 4px;
 	height: 4px;
